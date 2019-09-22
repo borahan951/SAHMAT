@@ -18,12 +18,12 @@ ___ ____ _____    ____              _
 
 ";
 echo $blue . "==================================";
-echo $bold . $green . "\nCoder   : fred.torvalds
-Team    : turkish intertional army 
+echo $bold . $green . "\nCoder   : Fred.Torvalds
+Codertwo: sahmat
 Code    : PHP
 Version : 8.9.8.0
 Note: 
-SAHMAT VE FRED .!! \n";
+JANGAN PERCAYA KEPADA SIAPAPUN.!! \n";
 echo $bold . $green . "DMYH    : $date\n";
 echo $blue . "==================================\n";
 echo $bold . $red . "Count      : ";
